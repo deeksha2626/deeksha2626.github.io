@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Talks"
-meta_title: "Meta art"
 subheadline: ""
 teaser: ""
 permalink: "/talks/"

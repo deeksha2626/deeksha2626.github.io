@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Fun"
-meta_title: "Meta art"
 subheadline: ""
 teaser: ""
 permalink: "/fun/"

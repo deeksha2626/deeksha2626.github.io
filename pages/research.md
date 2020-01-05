@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Research"
-meta_title: "Meta art"
 subheadline: ""
 teaser: ""
 permalink: "/research/"

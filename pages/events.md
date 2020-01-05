@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Events"
-meta_title: "Meta art"
 subheadline: ""
 teaser: ""
 permalink: "/events/"

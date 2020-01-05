@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Profile"
-meta_title: "Meta art"
 subheadline: ""
 teaser: ""
 permalink: "/index.html"

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Links"
-meta_title: "Meta art"
 subheadline: ""
 teaser: ""
 permalink: "/links/"
