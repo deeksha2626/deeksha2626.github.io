@@ -6,7 +6,7 @@ subheadline: "Subheading"
 teaser: "To learn about my awesome self."
 permalink: "/talks/"
 header:
-    title: Fun stuff
+    title: Deeksha Sharma
     background-color: "#EFC94C;"
     image_fullwidth: bridge.jpg
     caption: Picture of a bridge
